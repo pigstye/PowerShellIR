@@ -16,7 +16,7 @@
 .NOTES     
 	Author: Tom Willett
 	Date: 8/29/2014
-	© 2014 Fishnet Security
+	© 2014 Oink Software
 
 	It requires that check-sf-connectivity.ps1 and psexec.exe be in the same directory as
 	this script.

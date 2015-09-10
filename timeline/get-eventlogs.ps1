@@ -51,6 +51,12 @@ Where -- optional -- search the Message field for some text -- the new evtx form
  .\get-eventlogs.ps1 c:\windows\system32\winevt\application.evtx | export-csv -notype c:\temp\app.csv
 
  Reads the log file at c:\windows\system32\winevt\application.evtx and puts the output in c:\temp\app.csv
+
+ .EXAMPLE
+
+ .\get-eventlogs.ps1 c:\windows\system32\winevt\application.evtx | convert-eventlog-to-timeline.ps1 | export-csv -notype c:\temp\app.csv
+
+ Reads the log file at c:\windows\system32\winevt\application.evtx, converts it to timelinel format and puts the output in c:\temp\app.csv
  
 .EXAMPLE
 

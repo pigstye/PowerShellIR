@@ -38,7 +38,7 @@ Required can be entered on commandline.
  
 .EXAMPLE
 
- .\get-eventlogs.ps1 c:\windows\system32\winevt\application.evtx | eventlogto-timeline.ps1 | export-csv -notypeinformation logs.csv -append
+ .\get-eventlogs.ps1 c:\windows\system32\winevt\application.evtx | convert-eventlog-to-timeline.ps1 | export-csv -notypeinformation logs.csv -append
 
  Gets the application event log and converts it to my timeline format and appends it to logs.csv
  

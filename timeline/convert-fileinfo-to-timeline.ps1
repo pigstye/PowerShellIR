@@ -48,7 +48,7 @@ Required can be entered on commandline.
 
 .EXAMPLE
 
- .\get-files.ps1 d:\ | fileinfoto-timeline.ps1 | export-csv -notypeinformation files.csv
+ .\get-files.ps1 d:\ | convert-fileinfo-to-timeline.ps1 | export-csv -notypeinformation files.csv
 
  Gets all the files on the d: drive converts them to my timeline format and exports them to files.csv
  

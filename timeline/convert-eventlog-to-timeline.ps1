@@ -32,7 +32,7 @@ Required can be entered on commandline.
 
 .EXAMPLE
 
- .\get-eventlogs.ps1 c:\windows\system32\winevt\security.evtx | eventlogto-timeline.ps1 | export-csv -notypeinformation logs.csv
+ .\get-eventlogs.ps1 c:\windows\system32\winevt\security.evtx | convert-eventlog-to-timeline.ps1 | export-csv -notypeinformation logs.csv
 
  Gets all the security event log and converts it to my timeline format and exports it to logs.csv
  

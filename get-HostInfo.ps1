@@ -104,6 +104,7 @@ Begin {
 }
 
 process {
+	$ErrorActionPreference = "SilentlyContinue"
 	$info = "" | Select ip, hostname, Aliases, status, pingable, traceroute, city, region, country, loc, org, ipvoid, ipinfo, Whois, DNSInfo, FTP, SSH, Telnet, SMTP, DNS, HTTP, POP3, IMAP, SNMP, LDAP, HTTPS, SMB, MSSQL, MySQL, RDP
 	$hostEntry = [System.Net.Dns]::GetHostEntry($ip)
 	$info.ip = $hostEntry.AddressList

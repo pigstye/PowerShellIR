@@ -28,7 +28,7 @@ DateTime,MACB,User,Machine,SHA1,ShortEvent,Event,LogSource,LogSourceType,Inode,N
 
 .EXAMPLE
 
- .\linuxFileInfo.ps1 G:\ | .\convert-linusfileinfo-to-timeline.ps1 | export-csv -notype files.csv
+ .\get-linuxFileInfo.ps1 G:\ | .\convert-linuxfileinfo-to-timeline.ps1 | export-csv -notype files.csv
 
 Retrieves the information about the files on the mounted linux file system at g: converts it to timeline format and exports to files.csv
  

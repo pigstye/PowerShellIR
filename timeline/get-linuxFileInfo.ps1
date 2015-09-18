@@ -11,20 +11,20 @@ It get LastAccessTime, LastWriteTime, Path, FileType, SHA1, Size for each file.
 
 .EXAMPLE
 
-ps> .\linuxFileInfo.ps1  G:\
+ps> .\get-linuxFileInfo.ps1  G:\
 
 
 Retrieves information about all the files on the mounted linux file system at g:
 
 .EXAMPLE
 
-.\linuxFileInfo.ps1 G:\ | export-csv -notype files.csv
+.\get-linuxFileInfo.ps1 G:\ | export-csv -notype files.csv
 
 Retrieves the information about the files on the mounted linux file system at g: and exports to files.csv
 
 .EXAMPLE
 
-.\linuxFileInfo.ps1 G:\ | .\convert-linusfileinfo-to-timeline.ps1 | export-csv -notype files.csv
+.\get-linuxFileInfo.ps1 G:\ | .\convert-linuxfileinfo-to-timeline.ps1 | export-csv -notype files.csv
 
 Retrieves the information about the files on the mounted linux file system at g: converts it to timeline format and exports to files.csv
 

@@ -26,7 +26,6 @@ Gets the logon failures from DC servername
 
  Author: Tom Willett 
  Date: 9/29/2014
- © 2014 Oink Software 
 
 #>
 

@@ -11,7 +11,6 @@
 .NOTES     
 	Author: Tom Willett
 	Date: 8/28/2014
-	© 2014 Oink Software
 
 .EXAMPLE     
     .\list-timezones.ps1

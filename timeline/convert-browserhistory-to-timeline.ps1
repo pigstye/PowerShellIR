@@ -38,7 +38,6 @@ DateTime,MACB,User,Machine,SHA1,ShortEvent,Event,LogSource,LogSourceType,Inode,N
 
 Author: Tom Willett 
 Date: 2/26/2015
-© 2015 Oink Software
 
 #>
 

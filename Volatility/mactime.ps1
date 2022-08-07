@@ -24,7 +24,6 @@ outputs it to csv format with the export-csv commandlet.
 
  Author: Tom Willett 
  Date: 11/27/2014
- © 2014 Oink Software 
 
 .LINK
 

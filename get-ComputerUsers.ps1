@@ -42,7 +42,6 @@ Gets users from multiple computers listed in names.txt (one computer per line). 
 
 Author: Tom Willett 
 Date: 10/9/2014
-© 2014 Oink Software
 
 #>
 

@@ -17,7 +17,6 @@ This retrieves the IE history from the local computer by retrieving it from the 
 	
  Author: Tom Willett
  Date: 3/27/2015
- © 2015 Oink Software
 
 #>
 

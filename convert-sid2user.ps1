@@ -12,7 +12,6 @@ Converts SID to user.  Both Local and Domain
 
  Author: Tom Willett
  Date: 7/9/2014
- © 2014 Oink Software
 
 #>
 

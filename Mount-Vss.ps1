@@ -34,7 +34,6 @@ The volume (n: d: etc), for which, you want to mount the shadow copies.
 
 Author: Tom Willett 
 Date: 12/6/2014
-© 2014 Oink Software
 
 #>
 

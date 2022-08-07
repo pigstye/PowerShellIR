@@ -36,7 +36,6 @@ to emailheaders.csv
 
 Author: Tom Willett 
 Date: 11/8/2014
-© 2014 Oink Software
 
 #>
 

@@ -56,7 +56,6 @@ Required can be entered on commandline.
 
 Author: Tom Willett 
 Date: 12/29/2014
-© 2014 Oink Software
 
 #>
 

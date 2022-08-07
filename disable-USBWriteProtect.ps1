@@ -22,7 +22,6 @@ current state will continue.  You may have to reboot to renable usb writes.
 
 Author: Tom Willett 
 Date: 9/22/2015
-© 2015 Oink Software
 
 #>
 

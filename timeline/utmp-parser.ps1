@@ -14,7 +14,6 @@ for parsing.
 
 Author: Tom Willett 
 Date: 3/2/2015
-© 2015 Oink Software
 
 #>
 

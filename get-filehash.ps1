@@ -32,7 +32,6 @@ Gets the hash of myFile.txt, using the SHA256 hashing algorithm
 
 Author: Tom Willett 
 Date: 1/5/2015
-© 2014 Oink Software
 
 #>
  

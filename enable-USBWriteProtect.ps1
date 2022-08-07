@@ -21,8 +21,6 @@ current state will continue.
 .NOTES
 
 Author: Tom Willett 
-Date: 9/22/2015
-© 2015 Oink Software
 
 #>
 

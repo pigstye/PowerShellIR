@@ -39,7 +39,6 @@ Parses the contents of btmp, converts it to timeline format and saves it in utmp
 
 Author: Tom Willett 
 Date: 3/2/2015
-© 2015 Oink Software
 
 #>
 

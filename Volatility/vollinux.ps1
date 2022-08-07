@@ -48,7 +48,6 @@ Image type to use required
 	
  Author: Tom Willett
  Date: 2/22/2015
- © 2015 Oink Software
 
 #>
 

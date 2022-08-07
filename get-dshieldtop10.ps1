@@ -13,7 +13,6 @@
 
  Author: Tom Willett 
  Date:  3/23/2012
- © Oink Software
 
 #>
 

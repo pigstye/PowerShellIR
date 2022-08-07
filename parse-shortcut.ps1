@@ -26,7 +26,6 @@ Parses the contents of all the recent links for user SomeOne and outputs it to r
 
 Author: Tom Willett 
 Date: 1/14/2015
-© 2015 Oink Software
 
 #>
  

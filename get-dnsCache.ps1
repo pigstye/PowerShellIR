@@ -24,7 +24,6 @@ Gets dns cache from the local machine and exports to dns.csv
 
 Author: Tom WIllett
 Date: 9/11/2015
-© 2015 Oink Software
 
 #>
 

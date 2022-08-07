@@ -42,7 +42,6 @@ The DriveSpec is required and is the path where the files are that will be exami
 
 Author: Tom Willett 
 Date: 12/29/2014
-© 2014 Oink Software
 
 Win32 ACE (Access Control Entry) definition for directories -- bit flags
 1 = LIST_DIRECTORY Grants the right to list the contents of the directory.

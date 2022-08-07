@@ -21,7 +21,6 @@ The file to split (required)
 	
  Author: Tom Willett
  Date: 12/15/2014
- © 2013 Oink Software
 
 #>
 

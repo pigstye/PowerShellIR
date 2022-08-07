@@ -22,7 +22,6 @@ Gets the logon failures from  all DCs
 
  Author: Tom Willett 
  Date: 9/29/2014
- © 2014 Oink Software 
 
 #>
 

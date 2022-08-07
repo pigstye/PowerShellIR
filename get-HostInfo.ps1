@@ -29,7 +29,6 @@ The Computer or IP to look up.
 	
  Author: Tom Willett
  Date: 9/15/2015
- © 2015 Oink Software
 
 #>
 

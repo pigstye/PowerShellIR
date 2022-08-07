@@ -47,7 +47,6 @@ Produce a memory timeline for d:\image.mem using the type of WinXPSP2.  The imag
 
  Author: Tom Willett 
  Date: 11/27/2014
- © 2014 Oink Software 
 
 .LINK
 

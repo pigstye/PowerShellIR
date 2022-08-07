@@ -19,7 +19,6 @@ Checks all domain user accounts to see if the PasswordNotReq flag is set.
 
 Author: Tom Willett 
 Date: 9/26/2014
-© 2014 Oink Software
 
 #>
 

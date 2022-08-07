@@ -39,7 +39,6 @@ do-nmapsqlsa.psq  10.78.0.0/16
 
 	Author: Tom Willett
 	Date: 8/28/2014
-	© 2014 Oink Software
 
 #>
 

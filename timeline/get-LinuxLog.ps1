@@ -35,7 +35,6 @@ Retrieves the information about the files on the mounted linux file system at g:
 
 Author: Tom Willett 
 Date: 2/26/2015
-© 2015 Oink Software
 
 #>
 

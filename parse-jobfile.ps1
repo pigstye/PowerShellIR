@@ -22,7 +22,6 @@ Jobfile is required -- the path to the job file.
 
 Author: Tom Willett 
 Date: 12/22/2014
-© 2014 Oink Software
 
 #>
 

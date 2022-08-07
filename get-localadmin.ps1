@@ -24,7 +24,6 @@ Gets the local admin name on multiple computers listed in names.txt (one server 
 
 Author: Tom Willett 
 Date: 9/24/2014
-© 2014 Oink Software
 
 #>
 

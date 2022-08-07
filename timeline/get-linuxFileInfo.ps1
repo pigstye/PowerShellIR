@@ -32,7 +32,6 @@ Retrieves the information about the files on the mounted linux file system at g:
 
 Author: Tom Willett 
 Date: 3/6/2015
-© 2015 Fishnet Security
 
 #>
 

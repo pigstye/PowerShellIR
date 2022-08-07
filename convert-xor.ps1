@@ -24,7 +24,6 @@ String to xor with
 	
  Author: Tom Willett
  Date: 11/13/2014
- © 2014 Oink Software
 
 #>
 

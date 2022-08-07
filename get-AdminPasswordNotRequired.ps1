@@ -25,7 +25,6 @@ Gets whether the local admin account requires a password on multiple servers lis
 
 Author: Tom Willett 
 Date: 9/25/2014
-© 2014 Oink Software
 
 #>
 

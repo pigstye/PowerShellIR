@@ -21,7 +21,6 @@ PS>.\computerforensicinfo.ps1 x03758
 
  Author: Tom Willett 
  Date:  6/27/2013
- © Oink Software
  Ver 1.0
 
 #>

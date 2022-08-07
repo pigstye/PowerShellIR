@@ -82,7 +82,6 @@ Where -- optional -- search the Message field for some text -- the new evtx form
 
 Author: Tom Willett 
 Date: 2/26/2015
-© 2015 Oink Software
 
 #>
 

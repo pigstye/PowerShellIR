@@ -19,7 +19,6 @@
 .NOTES     
 	Author: Tom Willett
 	Date: 8/28/2014
-	© 2014 Oink Software
 
 .EXAMPLE     
     .\convert-time.ps1 "2/2/2014 12:31" "Eastern Standard Time" "Alaska Standard TIme"

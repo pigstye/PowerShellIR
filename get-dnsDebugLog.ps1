@@ -71,7 +71,6 @@ Returns output in the dns.csv file
 
 Author: Tom Willett 
 Date: 10/8/2014
-© 2014 Oink Software
 
 #>
 

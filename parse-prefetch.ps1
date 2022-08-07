@@ -36,7 +36,6 @@ and if ommitted the script will parse all the prefetch files in the c:\windows\p
 
 Author: Tom Willett 
 Date: 1/1/2015
-© 2014 Oink Software
 
 #>
 

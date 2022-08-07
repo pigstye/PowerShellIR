@@ -14,7 +14,6 @@
 .NOTES     
 	Author: Tom Willett
 	Date: 8/28/2014
-	© 2014 Oink Software
 	Based on a script by Brian Payne from August 13, 2014
 
 .EXAMPLE     

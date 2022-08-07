@@ -46,7 +46,6 @@ Required can be entered on commandline.
 
 Author: Tom Willett 
 Date: 2/26/2015
-© 2015 Oink Software
 
 #>
 

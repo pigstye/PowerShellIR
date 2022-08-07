@@ -78,7 +78,6 @@ Returns output in the dhcp.csv file
 
 Author: Tom Willett 
 Date: 10/8/2014
-© 2014 Oink Software
 
 #>
 

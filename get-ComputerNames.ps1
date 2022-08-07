@@ -38,7 +38,6 @@ Returns all Workstations
 
  Author: Tom Willett 
  Date: 9/29/2014
- © 2014 Oink Software 
 
 The names are returned one per line so they can be used as input to another command.
 flg can be shortened to S W or A

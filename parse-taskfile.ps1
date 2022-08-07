@@ -21,7 +21,6 @@ Parses the contents of c:\windows\system32\tasks\GoogleUpdateTaskMachineCore and
 
 Author: Tom Willett 
 Date: 3/24/2015
-© 2015 Oink Software
 
 #>
 

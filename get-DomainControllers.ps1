@@ -22,7 +22,6 @@ Get the domain controllers in current domain.
 
  Author: Tom Willett 
  Date: 9/29/2014
- © 2014 Oink Software 
 
 #>
 
